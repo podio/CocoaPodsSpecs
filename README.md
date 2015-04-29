@@ -1,0 +1,2 @@
+# CocoaPodsSpecs
+Podio CocoaPods specs.
